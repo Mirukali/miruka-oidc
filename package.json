@@ -11,7 +11,7 @@
 	},
 	"dependencies": {
 		"discord-api-types": "0.37.119",
-		"hono": "4.10.3",
+		"hono": "4.12.25",
 		"jose": "6.0.10"
 	},
 	"devDependencies": {
